@@ -51,8 +51,9 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Documentación</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+
                                     Laravel tiene una maravillosa cobertura de documentacion en diferentes aspectos del framework, ya sea seas nuevo en el tema o un experto (Senior) con Lravel. Se recomienda leer nuestra documentación de inicio a fin.
+                                
                                 </p>
                             </div>
 
